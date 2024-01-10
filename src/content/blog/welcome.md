@@ -1,12 +1,11 @@
 ---
-author: Hammad Majid
-pubDatetime: 2024-01-10T20:00:00.737Z
-title: Welcome
-slug: welcome
+pubDatetime: 2024-01-10T22:00:00+05:00
+title: Welcome to the Wiki!
+slug: welcome-to-the-wiki
 featured: false
 tags:
-  - meta
-description: A wiki I built for my personal projects.
+  - Meta
+description: An introduction to this wiki that I built for my personal projects.
 ---
 
 Hello there! Thanks for stepping into my digital realm. Here, I spill the beans on a bunch of side projects that keep me occupied. These little endeavors of mine serve as both an escape and a playground for me. Now, let's dive a bit deeper into what exactly goes on in my coding escapades.
