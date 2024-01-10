@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Hammad Majid",
   desc: "A wiki for personal projects.",
   title: "HammadWiki",
-  ogImage: "astropaper-og.jpg",
+  ogImage: undefined,
   lightAndDarkMode: true,
   postPerPage: 3,
 };
